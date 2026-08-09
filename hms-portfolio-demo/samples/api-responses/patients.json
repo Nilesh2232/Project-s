@@ -1,0 +1,21 @@
+{
+  "total": 2,
+  "page": 1,
+  "page_size": 10,
+  "items": [
+    {
+      "id": 101,
+      "full_name": "Sample Patient A",
+      "phone": "9000000001",
+      "gender": "female",
+      "date_of_birth": "1994-05-12"
+    },
+    {
+      "id": 102,
+      "full_name": "Sample Patient B",
+      "phone": "9000000002",
+      "gender": "male",
+      "date_of_birth": "1988-11-03"
+    }
+  ]
+}
