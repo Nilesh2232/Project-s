@@ -1,10 +1,10 @@
 export const profile = {
   name: 'Nilesh Gupta',
-  title: 'Python Backend Engineer',
+  title: 'Python Developer',
   summary:
     'I build scalable REST APIs, secure backend systems, and relational databases.',
   about:
-    'Python Backend Engineer with hands-on experience building production-grade healthcare applications using FastAPI, SQLAlchemy, PostgreSQL, JWT authentication, and RBAC. Focused on scalable REST APIs, database design, and maintainable backend services.',
+    'Python Developer with hands-on experience building production-grade healthcare applications using FastAPI, SQLAlchemy, PostgreSQL, JWT authentication, and RBAC. Focused on scalable REST APIs, database design, and maintainable backend services.',
   location: 'Wadala, Mumbai',
   phone: '8097836069',
   email: 'nileshgupta2232@gmail.com',
@@ -30,7 +30,7 @@ export const skills = {
 }
 
 export const experience = {
-  role: 'Python Software Engineer',
+  role: 'Python Developer',
   type: 'Internship',
   company: 'Saffo Solution Technology',
   location: 'Ghansoli, Navi Mumbai',

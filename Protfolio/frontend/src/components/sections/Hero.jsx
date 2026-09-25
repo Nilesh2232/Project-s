@@ -14,7 +14,7 @@ export default function Hero() {
         </p>
 
         <h1 className="mx-auto mt-5 max-w-4xl text-center font-display text-4xl font-bold leading-tight tracking-tight text-ink sm:text-6xl lg:text-7xl">
-          Python Backend <span className="text-accent">Engineer</span>
+          Python <span className="text-accent">Developer</span>
         </h1>
       </div>
     </section>

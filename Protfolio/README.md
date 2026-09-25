@@ -1,6 +1,6 @@
 # Nilesh Gupta Portfolio
 
-Public portfolio site for **Nilesh Gupta** — Python Backend Engineer.
+Public portfolio site for **Nilesh Gupta** — Python Developer.
 
 Live site (after deploy): add your Vercel URL here  
 Example: `https://nilesh-portfolio.vercel.app`
@@ -69,7 +69,7 @@ You will get a URL like:
 
 ```text
 Nilesh Gupta
-Python Backend Engineer
+Python Developer
 Wadala, Mumbai · 8097836069 · nileshgupta2232@gmail.com
 Portfolio: https://YOUR-VERCEL-URL.vercel.app
 LinkedIn: https://www.linkedin.com/in/ng8097836069
@@ -88,7 +88,6 @@ Protfolio/
     vercel.json          # SPA routing for React Router
     public/images/
     src/
-  hms-portfolio-demo/    # Optional separate case-study repo
   README.md
 ```
 

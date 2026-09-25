@@ -12,7 +12,7 @@ export default function About() {
           </h2>
           <p className="mt-6 text-base leading-relaxed text-muted sm:text-lg">
             I&apos;m a{' '}
-            <span className="font-semibold text-accent">Python Backend Engineer</span> with
+            <span className="font-semibold text-accent">Python Developer</span> with
             hands-on experience building production-grade healthcare applications using{' '}
             <span className="font-semibold text-ink">FastAPI</span>,{' '}
             <span className="font-semibold text-ink">SQLAlchemy</span>,{' '}

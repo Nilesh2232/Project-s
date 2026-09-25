@@ -10,7 +10,7 @@ export default function Footer() {
             Let&apos;s build something <span className="text-accent">solid</span>.
           </h3>
           <p className="mt-2 text-sm text-muted">
-            © {new Date().getFullYear()} {profile.name}. Python Backend Engineer.
+            © {new Date().getFullYear()} {profile.name}. Python Developer.
           </p>
         </div>
         <div className="flex flex-wrap gap-4 text-sm font-semibold">
