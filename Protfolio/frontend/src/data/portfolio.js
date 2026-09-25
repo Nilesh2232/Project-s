@@ -79,6 +79,42 @@ export const awards = [
   'Silver Medal — Intercollegiate Volleyball Tournament',
 ]
 
+export const certificates = [
+  {
+    id: 'pyspiders-fullstack',
+    title: 'Python Full-Stack with Data Analysis',
+    issuer: 'PySpiders Python Training Institute',
+    certificateNo: 'PY-26-47',
+    date: '12 Sep 2026',
+    duration: 'Aug 2025 — Apr 2026',
+    image: '/images/certificate-pyspiders.jpg',
+    summary:
+      'Completed a professional full-stack Python program covering backend development, frontend fundamentals, databases, and data analysis tools used in real projects.',
+    topics: [
+      {
+        group: 'Core & Backend',
+        items: ['Python', 'Django'],
+      },
+      {
+        group: 'Frontend',
+        items: ['HTML', 'CSS', 'JavaScript'],
+      },
+      {
+        group: 'Python Libraries',
+        items: ['NumPy', 'Pandas', 'Matplotlib', 'Seaborn'],
+      },
+      {
+        group: 'SQL',
+        items: ['Oracle SQL'],
+      },
+      {
+        group: 'Data Analysis',
+        items: ['Excel & Advance Excel', 'Power BI'],
+      },
+    ],
+  },
+]
+
 export const projects = [
   {
     id: 'hospital-management-system',
