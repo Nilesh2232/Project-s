@@ -45,7 +45,7 @@ export default function Navbar() {
           onClick={() => setOpen(false)}
         >
           {profile.name}
-          <span className="text-accent">.</span>
+          <span className="text-accent"> </span>
         </Link>
 
         <nav className="hidden items-center gap-10 lg:flex">
